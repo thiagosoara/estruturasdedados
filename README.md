@@ -3,8 +3,8 @@
  Repositório de dados da Disciplina de Estrutura de Dados
 
 **Estrutura do Repósitório**
-* source_code - Matérial oficial do Professor
-* slides - As aulas disponíveis em suas últimas versões
+* src - Matérial oficial do Professor
+* aulas - As aulas disponíveis em suas últimas versões
 * projetos - Espaço para alunos fazerem uploads dos seus projetos.
 
 **Linguagem Utilizada no Projeto:**
