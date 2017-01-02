@@ -2,8 +2,8 @@
 
  Repositório de dados da Disciplina de Estrutura de Dados
 
-**Estrutura do Repósitório**
-* src - Matérial oficial do Professor
+**Estrutura do Repositório**
+* src - Material oficial do Professor
 * aulas - As aulas disponíveis em suas últimas versões
 * projetos - Espaço para alunos fazerem uploads dos seus projetos.
 
